@@ -4,4 +4,4 @@ The objective of this project is for you to create a simple shell. Yes, your own
 
 Read the subject.pdf
 
-Project made with another 42 student.
+Project made with https://github.com/Gauthier3090.
